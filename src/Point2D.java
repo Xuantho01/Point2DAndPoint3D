@@ -35,7 +35,7 @@ public class Point2D {
     }
     @Override
     public String toString(){
-        return "array: "+ array;
+        return "array: "+ Arrays.toString(array);
     }
 
 
